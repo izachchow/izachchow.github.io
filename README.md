@@ -1,2 +1,2 @@
-# zach-chow.github.io
+# izachchow.github.io
 Zach.Chow's Blog
